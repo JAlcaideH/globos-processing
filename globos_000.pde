@@ -28,7 +28,7 @@ ArrayList<Globo> globos;
 
 void setup()
 {
-  size(500,750);
+  size(1000,750);
   globos = new ArrayList<Globo>();  
 }
 
